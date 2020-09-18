@@ -17,6 +17,12 @@ Plug 'Shougo/neosnippet-snippets'
 :Leaderf neosnippet
 ```
 
+or
+
+```
+:LeaderfNeosnippet
+```
+
 
 ## License
 
