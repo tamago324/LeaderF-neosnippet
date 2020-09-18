@@ -1,6 +1,6 @@
 # Leaderf-neosnippet
 
-LeaderfF support for [neosnippet](https://github.com/Shougo/neosnippet.vim)
+[LeaderF](https://github.com/Yggdroot/LeaderF) support for [neosnippet](https://github.com/Shougo/neosnippet.vim)
 
 ## Installation
 
